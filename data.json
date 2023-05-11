@@ -11,23 +11,18 @@
         "url": "https://github.com/ahmedbil/you-tracker",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
             "name": "Google Cloud Platform"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "OAuth 2.0"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "Youtube Data API"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "React.js"
           },
           {
-            "class": "devicon-typescript-plain",
             "name": "Javascript"
           }
         ]
@@ -35,7 +30,7 @@
       {
         "title": "Coin Buster",
         "startDate": "2018",
-        "description": "If you want to embark on a  journey to encounter the danger of blazing flames coming your way and collect as many gold coins as you can, then Coin Buster is for you! Inspired by pixel art games, Coin Buster is a single-player interactive game developed using Python and Tkinter library. The aim of the game is to collect as many coins without falling and getting burned by fire balls being projected around. The program heavily incorporates encapsulation, inheritance, abstraction and motion tracing to achieve interactions between objects.",
+        "description": "If you want to embark on a journey to encounter the danger of blazing flames coming your way and collect as many gold coins as you can, then Coin Buster is for you! Inspired by pixel art games, Coin Buster is a single-player interactive game developed using Python and Tkinter library. The aim of the game is to collect as many coins without falling and getting burned by fire balls being projected around. The program heavily incorporates encapsulation, inheritance, abstraction and motion tracing to achieve interactions between objects.",
         "images": [
           "assets/portfolio/coin-buster/coin-buster.png"
         ],
@@ -43,11 +38,9 @@
         "url": "https://github.com/ahmedbil/coin-buster",
         "technologies": [
           {
-            "class": "devicon-react-original",
             "name": "Python"
           },
           {
-            "class": "devicon-javascript-plain",
             "name": "Tkinter"
           }
         ]
@@ -63,11 +56,9 @@
         "url": "https://github.com/ahmedbil/bacterial-plus",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
             "name": "Processing"
           },
           {
-            "class": "devicon-typescript-plain",
             "name": "Java"
           }
         ]
@@ -83,19 +74,15 @@
         "url": "https://github.com/ahmedbil",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
             "name": "IntelliJ"
           },
           {
-            "class": "devicon-typescript-plain",
             "name": "Android API 33"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "Pixel 4a"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "Kotlin"
           }
         ]
@@ -125,15 +112,12 @@
         "url": "assets/straights.pdf",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
             "name": "C++"
           },
           {
-            "class": "devicon-typescript-plain",
             "name": "OOP"
           },
           {
-            "class": "devicon-csharp-plain",
             "name": "SOLID"
           }
         ]
