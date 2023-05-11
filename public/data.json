@@ -1,0 +1,231 @@
+{
+    "projects": [
+      {
+        "title": "YouTracker",
+        "startDate": "2015",
+        "description": "Whether you're a casual YouTube user or a power user looking to take your browsing experience to the next level, Youtracker is the tool for you. Youtracker is a Chrome extension designed to bring you the most accurate and up-to-date insights about the performance and content of your favourite youtube channels with just a click by leveraging YouTube Data API using GCP's API key. Youtracker is hosted on the secure Google Cloud Platform, ensuring that your data is protected and your browsing experience is smooth and hassle-free. Plus, Youtracker takes extra steps to ensure that your privacy is respected at all times. Before using the extension, you'll be redirected to a Google OAuth consent screen, where you can grant the extension, specific permissions to access the information you want it to. That's not all! I understand that waiting for insights to load can be frustrating, which is why there is a caching system in Youtracker. This means that the insights requested for your favourite YouTube channels will be stored in the cache, reducing wait times, making efficient use of API calls, and providing you with a seamless browsing experience.",
+        "images": [
+          "assets/portfolio/you-tracker/you-tracker.png"
+        ],
+        "video": ["assets/portfolio/you-tracker/you-tracker-demo.mp4"],
+        "url": "https://github.com/ahmedbil/you-tracker",
+        "technologies": [
+          {
+            "name": "Google Cloud Platform"
+          },
+          {
+            "name": "OAuth 2.0"
+          },
+          {
+            "name": "Youtube Data API"
+          },
+          {
+            "name": "React.js"
+          },
+          {
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Coin Buster",
+        "startDate": "2018",
+        "description": "If you want to embark on a journey to encounter the danger of blazing flames coming your way and collect as many gold coins as you can, then Coin Buster is for you! Inspired by pixel art games, Coin Buster is a single-player interactive game developed using Python and Tkinter library. The aim of the game is to collect as many coins without falling and getting burned by fire balls being projected around. The program heavily incorporates encapsulation, inheritance, abstraction and motion tracing to achieve interactions between objects.",
+        "images": [
+          "assets/portfolio/coin-buster/coin-buster.png"
+        ],
+        "video": ["assets/portfolio/coin-buster/coin-buster-demo.mp4"],
+        "url": "https://github.com/ahmedbil/coin-buster",
+        "technologies": [
+          {
+            "name": "Python"
+          },
+          {
+            "name": "Tkinter"
+          }
+        ]
+      },
+      {
+        "title": "Bacterial Plus",
+        "startDate": "2020",
+        "description": "Bacterial Plus is a software that simulates the bacterial conjugation process in different environments. Inspired by my research experience at the University of Waterloo on CRISPR bacterial conjugation, I developed Bacterial Plus to help aid in observing generational changes in different types of bacteria, by controlling environmental factors, conjugation rate, and frame rates per second. It keeps track of characteristics unique to each bacteria, such as fertility and plasmid factor, as well as its type, and simulates the process for up to 10000 different types of bacteria.",
+        "images": [
+          "assets/portfolio/bacterial-plus/bacterial-plus.png"
+        ],
+        "video": ["assets/portfolio/bacterial-plus/bacterial-plus-demo.mp4"],
+        "url": "https://github.com/ahmedbil/bacterial-plus",
+        "technologies": [
+          {
+            "name": "Processing"
+          },
+          {
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "MyCourseMap",
+        "startDate": "2015",
+        "description": "MyCourseMap is an Android application to help keep track of the courses students have already taken during their university careers. The application allows you to add, modify, and remove course information. It also provides some simple visualizations, filtering, and sorting to provide a quick overview of your grades.",
+        "images": [
+          "assets/portfolio/mark-manager/mark-manager-2.png"
+        ],
+        "video": ["assets/portfolio/mark-manager/mark-manager-demo.mp4"],
+        "url": "https://github.com/ahmedbil",
+        "technologies": [
+          {
+            "name": "IntelliJ"
+          },
+          {
+            "name": "Android API 33"
+          },
+          {
+            "name": "Pixel 4a"
+          },
+          {
+            "name": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Straights: Poker Hand",
+        "startDate": "2015",
+        "description": "Introducing an exciting 4-player Straights game, built in C++! Experience the thrill of playing with your friends or against computer players, as you shuffle and deal the deck to begin a new round. With pseudo-random shuffling for fair gameplay. The game features a simple yet challenging computer player, who always makes the first legal play in their hand, and discards the first card in their hand if they have no legal plays. As a human player, you will get 8 lines of information about the cards on the table, in each suit, and your own hand, including legal plays. With 5 different commands available - play, discard, deck, quit, and ragequit - you have complete control over your gameplay strategy. At the end of the round, each player's discards will be shown, along with their score. The game ends when one player accumulates 80 points or more, and the player with the lowest score wins. Get ready for endless hours of fun with 4 player Straights game!",
+        "images": [
+          "assets/portfolio/straights/straights.png",
+          "assets/portfolio/straights/demo/demo1.png",
+          "assets/portfolio/straights/demo/demo2.png",
+          "assets/portfolio/straights/demo/demo3.png",
+          "assets/portfolio/straights/demo/demo4.png",
+          "assets/portfolio/straights/demo/demo5.png",
+          "assets/portfolio/straights/demo/demo6.png",
+          "assets/portfolio/straights/demo/demo7.png",
+          "assets/portfolio/straights/demo/demo8.png",
+          "assets/portfolio/straights/demo/demo9.png",
+          "assets/portfolio/straights/demo/demo10.png",
+          "assets/portfolio/straights/demo/demo11.png",
+          "assets/portfolio/straights/demo/demo12.png",
+          "assets/portfolio/straights/demo/demo13.png",
+          "assets/portfolio/straights/demo/demo14.png",
+          "assets/portfolio/straights/demo/demo15.png"
+        ],
+        "url": "assets/straights.pdf",
+        "technologies": [
+          {
+            "name": "C++"
+          },
+          {
+            "name": "OOP"
+          },
+          {
+            "name": "SOLID"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Christie Digital Systems",
+        "title": "Software Engineer (Projection Mapping)",
+        "years": "09.2022 - 12.2022",
+        "description": ["Developed Single-Shot Test Pattern (SSTP), an RGB grid test pattern for Mystique software to accurately calibrate projectors and cameras in 2D/3D projection-camera mapping using single shot."],
+        "mainTech": [{"mainTech": {
+          "name": "Mystique",
+          "url": "https://www.christiedigital.com/products/warping-blending/mystique/"
+        }}],
+        "technologies": [
+          "C++",
+          "OpenCV",
+          "Eigen",
+          "Docker",
+          "React.js",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Verto Health Inc.",
+        "title": "Full-Stack Software Engineer",
+        "years": "01.2022 - 05.2022",
+        "description": ["Designed the Digital Twin platform to support the workflow of self-collected COVID-19 PCR tests, serving 5M+ patients", "Developed a mobile health card scanner to authenticate patients' appointments."],
+        "mainTech": [{"mainTech": {
+          "name": "Digital Twin",
+          "url": "https://verto.health/digital-twin/"
+        }}],
+        "technologies": [
+          "Ruby on Rails",
+          "AngularJS",
+          "Vue.js",
+          "Flask",
+          "Redis",
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Broadridge",
+        "title": "Software QA Engineer",
+        "years": "05.2021 - 08.2021",
+        "description": ["Performed 500+ functional, regression, positive & negative testing for Broadridge's R.Broker software, while designing and maintaining testing standards throughout SDLC."],
+        "mainTech": [{"mainTech": {
+          "name": "R.Broker",
+          "url": "https://www.broadridge.com/ca/financial-services/wealth-management/wealth/create-an-enterprise-multi-regulatory-wealth-platform/rpm-r-broker"
+        }}],
+        "technologies": [
+          "Java"
+        ]
+      },
+      {
+        "company": "Building Blocks Peer Mentoring",
+        "title": "Software Developer",
+        "years": "04.2021 - 10.2021",
+        "description": ["Integrated JWT stored on HTTP-only cookies using express middleware to improve user session security.",
+        "Utilized Web Sockets for processing real-time interaction between mentors and mentees."],
+        "mainTech": [{ "mainTech": {
+          "name": "Building Blocks",
+          "url": "https://www.linkedin.com/company/building-blocks-peer-mentoring/"
+        }}],
+        "technologies": [
+          "Socket.io",
+          "Nodemailer",
+          "Redis",
+          "Express.js",
+          "React.js",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "NUST",
+        "title": "Machine Learning Engineer",
+        "years": "08.2019 - 09.2019",
+        "description": ["Applied ID3 algorithm to generate a classifier to detect cells by training on datasets containing their morphological information."],
+        "mainTech": [{"mainTech": {
+          "name": "Deep Learning Lab",
+          "url": ""
+        }}],
+        "technologies": [
+          "Numpy",
+          "TensorFlow",
+          "PyTorch",
+          "Python"
+        ]
+      },
+      {
+        "company": "University of Waterloo",
+        "title": "Research Student",
+        "years": "10.2018 - 06.2019",
+        "description": ["Assisted with experiments at Ingalls' lab involved in bacterial CRISPR conjugation research project with the aim of developing a mathematical model explaining this system."],
+        "mainTech": [{"mainTech": {
+          "name": "Bacterial Conjugation Predictor",
+          "url": "https://uwaterloo.ca/scholar/bingalls/research"
+        }}],
+        "technologies": [
+          "CRISPR",
+          "Gene Expression",
+          "Microscopy",
+          "Conjugation",
+          "Fluorescence",
+          "Antibiotic Resistance"
+        ]
+      }
+    ]
+  }
