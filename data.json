@@ -175,7 +175,7 @@
         ]
       },
       {
-        "company": "Building Blocks Peer Mentoring",
+        "company": "Building Blocks",
         "title": "Software Developer",
         "years": "04.2021 - 10.2021",
         "description": ["Integrated JWT stored on HTTP-only cookies using express middleware to improve user session security.",
