@@ -128,7 +128,7 @@
         "company": "Christie Digital Systems",
         "title": "Software Engineer (Projection Mapping)",
         "years": "09.2022 - 12.2022",
-        "description": ["Developed Single-Shot Test Pattern (SSTP), an RGB grid test pattern for Mystique software to accurately calibrate projectors and cameras in 2D/3D projection-camera mapping using single shot."],
+        "description": ["Engineered a calibration system SSTP in C++, that uses a structured light RGB grid pattern, to accurately calibrate in 2D/3D projection-camera mapping."],
         "mainTech": [{"mainTech": {
           "name": "Mystique",
           "url": "https://www.christiedigital.com/products/warping-blending/mystique/"
@@ -146,7 +146,7 @@
         "company": "Verto Health Inc.",
         "title": "Full-Stack Software Engineer",
         "years": "01.2022 - 05.2022",
-        "description": ["Designed the Digital Twin platform to support the workflow of self-collected COVID-19 PCR tests, serving 5M+ patients", "Developed a mobile health card scanner to authenticate patients' appointments."],
+        "description": ["Developed end-to-end service of self-collected COVID-19 PCR tests and automated patient symptoms screening survey, serving 5M+ patients."],
         "mainTech": [{"mainTech": {
           "name": "Digital Twin",
           "url": "https://verto.health/digital-twin/"
@@ -165,7 +165,7 @@
         "company": "Broadridge",
         "title": "Software QA Engineer",
         "years": "05.2021 - 08.2021",
-        "description": ["Performed 500+ functional, regression, positive & negative testing for Broadridge's R.Broker software, while designing and maintaining testing standards throughout SDLC."],
+        "description": ["Performed 600+ functional, regression, positive & negative testing for Broadridge's R.Broker software, while designing and maintaining testing standards throughout SDLC."],
         "mainTech": [{"mainTech": {
           "name": "R.Broker",
           "url": "https://www.broadridge.com/ca/financial-services/wealth-management/wealth/create-an-enterprise-multi-regulatory-wealth-platform/rpm-r-broker"
@@ -191,22 +191,6 @@
           "Express.js",
           "React.js",
           "MongoDB"
-        ]
-      },
-      {
-        "company": "NUST",
-        "title": "Machine Learning Engineer",
-        "years": "08.2019 - 09.2019",
-        "description": ["Applied ID3 algorithm to generate a classifier to detect cells by training on datasets containing their morphological information."],
-        "mainTech": [{"mainTech": {
-          "name": "Deep Learning Lab",
-          "url": ""
-        }}],
-        "technologies": [
-          "Numpy",
-          "TensorFlow",
-          "PyTorch",
-          "Python"
         ]
       },
       {
